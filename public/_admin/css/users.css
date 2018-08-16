@@ -1,0 +1,8 @@
+.card .header-card .nav-card{
+  padding: 0;
+  margin: 0;
+  font-size: 14px;
+}
+.card .header-card .nav-card li {
+  display: inline-block;
+}

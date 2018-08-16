@@ -1,0 +1,11 @@
+{
+  "require": {
+    "filp/whoops": "*"
+  },
+  "autoload": {
+    "psr-4" : {
+      "Application\\": "application/",
+      "System\\": "system/core/"
+    }
+  }
+}
